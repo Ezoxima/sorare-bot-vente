@@ -1,0 +1,1 @@
+"""Outils manuels, hors runtime."""

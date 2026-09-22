@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.csv
+*.json
+!package-lock.json
+.ruff_cache/
+*.egg-info/
+.claude/settings.local.json
